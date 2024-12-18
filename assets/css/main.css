@@ -2586,6 +2586,12 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+/*video*/
+video, object{
+	max-height:100%;
+	max-width: 100%;
+}
+
 /* Image */
 
 	.image {
